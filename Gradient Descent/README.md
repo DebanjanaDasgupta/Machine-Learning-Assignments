@@ -4,11 +4,8 @@ number of A grades that the student received in the rst year of the M.S. progra
 a hypothesis of the form h(x) = theta_0 + theta_1 * x, where theta_0 and theta_1 are parameters that you want to find. The
 data is presented below:
 
-x  y
-3  2
-1  2
-0  1
-4  3
+x = {3,1,0,4} 
+y = {2,2,1,3}
 
 
 You start with an initial choice of parameters as: theta_0 = 0 and theta_1 = 1. You can assume that the error
